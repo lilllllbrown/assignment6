@@ -31,11 +31,13 @@
             <a href='form.pdf'>Permission Form</a></div>
         
         <div class="videos"><ol>
-                <li> <iframe width="560" height="315" src="//www.youtube.com/embed/Ed8kpl6hwYc" frameborder="0" allowfullscreen></iframe></li>
+                <li> <iframe width="560" height="315" src="//www.youtube.com/embed/U94nGmCBy3Y" frameborder="0" allowfullscreen></iframe></li>
             
-                <li><iframe width="560" height="315" src="//www.youtube.com/embed/Sctd3y70-60" frameborder="0" allowfullscreen></iframe></li>
+                <li><iframe width="560" height="315" src="//www.youtube.com/embed/jMiUaro6pfw" frameborder="0" allowfullscreen></iframe></li>
             
-                <li><iframe width="560" height="315" src="//www.youtube.com/embed/ot6QG6vOEHY" frameborder="0" allowfullscreen></iframe></li>
+                <li><iframe width="560" height="315" src="//www.youtube.com/embed/1Nnx_YLCdYU" frameborder="0" allowfullscreen></iframe></li>
+                
+                <li><iframe width="560" height="315" src="//www.youtube.com/embed/5PR0FphDX9o" frameborder="0" allowfullscreen></iframe></li>
             </ol>
 
 </div>

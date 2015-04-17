@@ -29,11 +29,11 @@
 
             <h2>Before...</h2>
             <div class='container1' > 
-                <a href="http://www.uvm.edu/~jocallag/cs142/assignment6/pics/home.jpg" target="_blank"><img src="http://www.uvm.edu/~jocallag/cs142/assignment6/pics/home.jpg" width="300" height="200"  alt="Main Page" /></a>
-                <a href="http://www.uvm.edu/~jocallag/cs142/assignment6/pics/contact.jpg" target="_blank"><img src="http://www.uvm.edu/~jocallag/cs142/assignment6/pics/contact.jpg" width="300" height="200"  alt="Contact Page" /></a>
-                <a href="http://www.uvm.edu/~jocallag/cs142/assignment6/pics/beds.jpg" target="_blank"><img src="http://www.uvm.edu/~jocallag/cs142/assignment6/pics/beds.jpg" width="300" height="200"  alt="Beds Page" /></a>
+                <a href="https://lbrown20.w3.uvm.edu/cs142/assignment6/homepage1.png" target="_blank"><img src="homepage1.png" width="300" height="200"  alt="Main Page" /></a>
+                <a href="https://lbrown20.w3.uvm.edu/cs142/assignment6/homepage2.png" target="_blank"><img src="homepage2.png" width="300" height="200"  alt="Main Page 2" /></a>
+              <!--  <a href="http://www.uvm.edu/~jocallag/cs142/assignment6/pics/beds.jpg" target="_blank"><img src="http://www.uvm.edu/~jocallag/cs142/assignment6/pics/beds.jpg" width="300" height="200"  alt="Beds Page" /></a>
                 <a href="http://www.uvm.edu/~jocallag/cs142/assignment6/pics/products.jpg" target="_blank"><img src="http://www.uvm.edu/~jocallag/cs142/assignment6/pics/products.jpg" width="300" height="200"  alt="Products Page" /></a>
-
+-->
             </div>
 
 
@@ -41,11 +41,11 @@
                 <div class="container">
                     <h2>5 Changes</h2>
                     <ol class="ordered-list">
-                        <li>Change 1</li>
-                        <li>Change 2</li>
-                        <li>Change 3</li>
-                        <li>Change 4</li>
-                        <li>Change 5</li>
+                        <li>Change 1: Reorganized visual hierarchy of the page </li>
+                        <li>Change 2: Added address and phone number onto the home page </li>
+                        <li>Change 3: Added link to a PDF for the menu</li>
+                        <li>Change 4: Utilized Krug's 3rd law of usability and cut down the amount of text on the page  </li>
+                        <li>Change 5: </li>
 
 
                     </ol>
